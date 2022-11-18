@@ -1,2 +1,11 @@
 # kata-challenges
-practice code 
+
+Practice code from kata
+
+My main language is Javascript
+
+## Now we have:
+
+-  Golang
+-  Javascript
+-  Python
